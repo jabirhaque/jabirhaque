@@ -6,6 +6,8 @@ I have worked on the following projects and more
 2. An automated trading system (NLP with sentiment analysis)
 3. An options pricing tool (Black-Scholes with Greeks)
 
+Learning C++ next
+
 ### Technology I've used
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
