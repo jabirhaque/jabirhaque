@@ -1,12 +1,12 @@
 # Hello World
 I study Computer Science & Mathematics @ Durham University 🏰  
-I have interests in Computer Systems, Programming, Mathematics, and Finance  
+I have interests in Computer Systems, Programming, Mathematics, and Finance
 I have worked on the following projects and more  
 1. An ML betting system (logistical regression with kelly criterion)
 2. An automated trading system (NLP with sentiment analysis)
 3. An options pricing tool (Black-Scholes with Greeks)
 
-Learning C++ next
+Next I am learning C++, and developing a Time Series Database (TSDB) with a focus on efficient data storage, high-throughput ingestion, and low-latency querying
 
 ### Technology I've used
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
