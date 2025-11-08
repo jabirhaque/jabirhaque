@@ -1,6 +1,6 @@
 # Hello World
 I study Computer Science & Mathematics @ Durham University 🏰  
-I have interests in Computer Systems, Programming, Mathematics, and Finance
+I have interests in Computer Systems, Programming, Mathematics, and Finance  
 I have worked on the following projects and more  
 1. An ML betting system (logistical regression with kelly criterion)
 2. An automated trading system (NLP with sentiment analysis)
