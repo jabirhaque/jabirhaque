@@ -8,7 +8,7 @@ I have worked on the following projects and more
 
 Currently I am learning C++, and developing a Time Series Database (TSDB) with a focus on efficient data storage, high-throughput ingestion, and low-latency querying  
 
-I also enjoy solving Data Structure and Algorithm problems, check out my progress on [LeetCode](https://leetcode.com/u/jabirhaque123/) where I have solved 700+ problems
+I also enjoy solving Data Structure and Algorithm problems, check out my progress on [LeetCode](https://leetcode.com/u/jabirhaque123/) where I have solved 800+ problems
 
 ### Technology I've used
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
