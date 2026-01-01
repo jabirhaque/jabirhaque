@@ -1,12 +1,13 @@
 # Hello World
 I study Computer Science & Mathematics @ Durham University 🏰  
 I have interests in Computer Systems, Programming, Mathematics, and Finance  
+
+Currently I am learning C++, and developing a Time Series Database (TSDB) with a focus on efficient data storage, high-throughput ingestion, and low-latency querying  
+
 I have worked on the following projects and more  
 1. An automated trading system (NLP with sentiment analysis)
 2. An ML betting system (logistical regression with kelly criterion)
 3. An options pricing tool (Black-Scholes with Greeks)
-
-Currently I am learning C++, and developing a Time Series Database (TSDB) with a focus on efficient data storage, high-throughput ingestion, and low-latency querying  
 
 I also enjoy solving Data Structure and Algorithm problems, check out my progress on [LeetCode](https://leetcode.com/u/jabirhaque123/) where I have solved 800+ problems and compete regularly in weekly contests
 
