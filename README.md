@@ -2,12 +2,13 @@
 I study Computer Science & Mathematics @ Durham University  
 I have interests in Computer Systems, Programming, Mathematics, and Finance  
 
-Currently I am learning C++, and developing a Time Series Database (TSDB) with a focus on efficient data storage, high-throughput ingestion, and low-latency querying  
+Currently, I am planning the development of a Java Off Heap Memory Manager with custom memory allocation strategies, ideal for low latency, high memory usage applications, with hopes of publishing a library to Maven Central  
+I am learning C++, and developing a Time Series Database (TSDB) with a focus on efficient data storage, high-throughput ingestion, and low-latency querying  
 I have also built an Automated Trading System (NLP with sentiment analysis) and an Options Pricing Tool (Black-Scholes with Greeks)  
 
 I also enjoy solving Data Structure and Algorithm problems, check out my progress on [LeetCode](https://leetcode.com/u/jabirhaque123/)
 
-In my free time, I follow Manchester United and have begun playing poker
+In my free time, I follow Manchester United and have begun playing Poker
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
