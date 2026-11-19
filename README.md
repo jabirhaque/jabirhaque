@@ -1,15 +1,17 @@
 # Hello World
 I'm Jabir, a student at Durham University studying Mathematics and Computer Science  
-I have interests in Computer Systems, Programming, Mathematics, and Finance  
+I have interests in Computer Systems, Programming, Mathematics, and Finance
 
-Currently, I am developing a Java Off Heap Memory Management library with custom memory allocation strategies, ideal for low latency, high memory usage applications, with hopes of publishing a library to Maven Central    
-I am learning C++, and building a Time Series Database (TSDB) with a focus on efficient data storage, high-throughput ingestion, and low-latency querying  
+I have developed a Java Off Heap Memory Management library with custom memory allocation strategies, ideal for low latency, high memory usage applications  
+I am learning C++, and have built a Time Series Database (TSDB) with a focus on efficient data storage, high-throughput ingestion, and low-latency querying  
 I am an incoming trading intern for Summer 2027, with previous experience in SWE in financial markets
 
-I also enjoy solving Data Structure and Algorithm problems, check out my progress on [LeetCode](https://leetcode.com/u/jabirhaque123/)
+I also enjoy solving Data Structure and Algorithm problems, check out my progress on [LeetCode](https://leetcode.com/u/jabirhaque123/)  
+Within my degree, I am specialising in Probability Theory, including modules such as Probability II, Mathematical Finance and Stochastic Processes
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
